@@ -80,6 +80,7 @@
   <ItemGroup>
     <Compile Include="MultiplesOf3And5.cs" />
     <Compile Include="Prb3_LargestPrimeFactor.cs" />
+    <Compile Include="Prb4_LargestPalindromeProduct.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Prb2_EvenFibonacciNumbers.cs" />
   </ItemGroup>
