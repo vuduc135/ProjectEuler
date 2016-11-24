@@ -56,6 +56,7 @@
     <Compile Include="Prb2_EvenFibonacciNumbers_Test.cs" />
     <Compile Include="Prb3_LargestPrimeFactor_Test.cs" />
     <Compile Include="Prb4_LargestPalindromeProduct_Test.cs" />
+    <Compile Include="Prb5_SmallestMultiple_Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
